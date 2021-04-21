@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 0952e5ecb896c43faa1312246b7fc129
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Oz's Wizard
+  fontNames:
+  - Oz's Wizard
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: cfeaa4955a409446c91122e7d22e93e3, type: 3}
+  - {fileID: 12800000, guid: 641740d69f9884942bdf6f5e248038a2, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
